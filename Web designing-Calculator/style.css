@@ -1,0 +1,41 @@
+body{
+    background: url(cool-background\ \(4\).png)
+}
+.calc{
+    width: 400px;
+    height: 600px;
+    background: none;
+    margin-left:450px ;
+    margin-top: 30px;
+    border: solid black;
+    border-radius: 43px;
+   
+}
+#text-field{
+    width: 324px;
+    height: 63px;
+    margin-left: 36px;
+    margin-top: 42px;
+    border: solid black;
+    border-radius: 10px;
+    pointer-events: none;
+    font-size: 46px;
+    font-weight: bold;
+    text-align: right;
+    background: none;
+}
+.btn{
+    margin-left: 44px;
+    margin-top: 20px;
+    height: 55px;
+    width: 73px;
+    font-size: 43px;
+    font-weight: bold;
+    border: solid black;
+    border-radius: 15px;
+    padding-left: 11px;
+    background: none;
+}
+.btn:hover{
+    background:#ff002f03;
+}
